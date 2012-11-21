@@ -1,0 +1,3 @@
+Squeezplay applet to control sound devices (analogous to alsamixer)
+
+Install: just copy to squeezplay/jive/share/applets directory

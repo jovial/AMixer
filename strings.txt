@@ -1,0 +1,37 @@
+# strings for AmixerApplet
+
+# Meta
+APPLET_NAME
+	EN	AMixer
+
+# Applet
+
+SELECT_CONTROL
+	EN	Select a control
+
+HELP_START
+	EN	Tap first item to cycle through available cards - this will refresh the list of controls below. Select a control to see available options.
+
+CAPABILITIES
+	EN	Select an option
+
+VOLUME_DESCRIPTION
+	EN	Volume
+
+MUTE_DESCRIPTION
+	EN	Mute state
+
+MUTED
+	EN	Muted
+
+UNMUTED
+	EN	Unmuted
+
+MUTE
+	EN	Mute
+
+UNMUTE
+	EN	Unmute
+
+CANCEL
+	EN	Cancel
